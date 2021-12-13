@@ -7,19 +7,11 @@
 .content{
     height: fit-content;
 }
-.img{
-    width:40%;
-}
-img{
-    width: 100%;
-}
+
 .icon{
     font-size: 5rem;
 }
 
-.font-p{
-    font-size:1.3rem;
-}
 .logo{
     font-size: 1.5rem;
 }
